@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|c:\\users\\laboratorio.mc\\source\\repos\\mate pazmi\u00F1o naula\\webapplication1\\nueva pagina1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\nueva pagina1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|c:\\users\\laboratorio.mc\\source\\repos\\mate pazmi\u00F1o naula\\webapplication1\\nueva pagina2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\nueva pagina2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\webapplication1\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|c:\\users\\laboratorio.mc\\source\\repos\\mate pazmi\u00F1o naula\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|c:\\users\\laboratorio.mc\\source\\repos\\mate pazmi\u00F1o naula\\webapplication1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1395A01-6F82-490D-92FD-59EC3DAFED86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nueva pagina2.aspx",
+              "DocumentMoniker": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Nueva pagina2.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Nueva pagina2.aspx",
+              "ToolTip": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Nueva pagina2.aspx",
+              "RelativeToolTip": "WebApplication1\\Nueva pagina2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T15:21:20.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nueva pagina1.aspx",
+              "DocumentMoniker": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Nueva pagina1.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Nueva pagina1.aspx",
+              "ToolTip": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Nueva pagina1.aspx*",
+              "RelativeToolTip": "WebApplication1\\Nueva pagina1.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T15:14:36.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\About.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\About.aspx",
+              "ToolTip": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\About.aspx",
+              "RelativeToolTip": "WebApplication1\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T14:57:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
+              "ToolTip": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T15:56:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Contact.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Contact.aspx",
+              "ToolTip": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Contact.aspx",
+              "RelativeToolTip": "WebApplication1\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T15:54:18.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Site.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Site.Master",
+              "ToolTip": "C:\\Users\\laboratorio.mc\\source\\repos\\Mate Pazmi\u00F1o Naula\\WebApplication1\\Site.Master",
+              "RelativeToolTip": "WebApplication1\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T15:41:17.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
